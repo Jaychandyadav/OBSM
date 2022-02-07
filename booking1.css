@@ -1,0 +1,47 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+
+#h3{
+    margin-top: 50px;
+}
+
+body{
+    background-image:url(pexels-magda-ehlers-2861656.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#booked
+{
+    margin-top: 88px;
+    background-color: rgba(23, 26, 25, 0.733);
+    width: 618px;
+    /* height: 459px; */
+    height: 443px;
+    border-radius: 24px;
+}
+.boo{
+    margin-top: 19px;
+}
+
+#submit{
+    border-radius: 6px;
+    
+}
+#date_time:hover{
+    cursor: pointer;
+}
+
+#submit:hover{
+    cursor: pointer;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c9f;
+    background-color: rgba(53, 245, 53, 0.575);
+}
+
+
+
+

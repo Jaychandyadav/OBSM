@@ -1,0 +1,68 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+/* #row{
+    border: 2px solid red;
+
+}
+
+.card-header{
+    width: 250px;
+    border: 2px solid yellow;
+}
+
+.col-lg-3{
+    border: 2px solid green;
+} */
+
+body{
+    background-color: #eaeaea;
+}
+
+.card{
+    border: 2px solid white;
+    width: 253px;
+}
+
+#first{
+    background-color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#second{
+    margin-top: 12px;
+    background-color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#third{
+    margin-top: 12px;
+    background-color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#fourth{
+    margin-top: 12px;
+    background-color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#fifth{
+    margin-top: 12px;
+    background-color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#sixth{
+    margin-top: 12px;
+    background-color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+}
